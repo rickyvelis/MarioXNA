@@ -1,4 +1,4 @@
 # MarioXNA
 Old School Project
 
-Made a platoformer gamew using the XNA Framework
+Made a platoformer game using the XNA Framework
